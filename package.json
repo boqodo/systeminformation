@@ -55,5 +55,8 @@
   ],
   "engines": {
     "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.4.19"
   }
 }
